@@ -7,8 +7,7 @@ I am a Frontend developer who has eyes for amazing and interactive user interfac
 - 🌍  I'm based in Nigeria
 - ✉️  You can contact me at [afodydigitals@gmail.com](mailto:afodydigitals@gmail.com)
 - 🧠  I'm learning React
-- 🤝  I'm open to collaborating on Frontend projects and project design<a href="https://www.github.com/AfoDyDigitals" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AfoDyDigitals?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+- 🤝  I'm open to collaborating on Frontend projects and project design<a href="https://www.github.com/AfoDyDigitals" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AfoDyDigitals?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">
