@@ -1,19 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Temidayo Afolabi
 ========================================================================================================================================
 
-Frontend Designer | UI/UX Designer
+AI ML Researcher | Computational Linguist | Frontend Designer | UI/UX Designer
 -----------------------------------
 
 I am a Frontend Designer who has eyes for amazing and interactive user interfaces.
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [afodydigitals@gmail.com](mailto:afodydigitals@gmail.com)
-*   🧠  I'm a Frontend Developer and currently learning AI and Machine Learning
-*   🤝  I'm open to collaborating on frontend projects and UI design projects <br /> <a href="https://www.github.com/AfoDyDigitals" target="_blank" rel="noreferrer"><img
+*   <a href="https://www.github.com/AfoDyDigitals" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/AfoDyDigitals?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
   
   # Skills 
 <p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
