@@ -4,10 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI ML Researcher | Computational Linguist | Frontend Designer | UI/UX Designer
 -----------------------------------
 
-I am a Frontend Designer who has eyes for amazing and interactive user interfaces.
-
 *   🌍  I'm based in Paris
-*   ✉️  You can contact me at [afodydigitals@gmail.com](mailto:afodydigitals@gmail.com)
+*   ✉️  You can contact me at [afod14@gmail.com](mailto:afod14@gmail.com)
 *   <a href="https://www.github.com/AfoDyDigitals" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/AfoDyDigitals?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
   
